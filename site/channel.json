@@ -10,36 +10,44 @@
       "sha256": "ac3c58f5604ec276bff7d48dd854403ea47558ce11b568bb2fe1cfbcca494448",
       "size": 119
     },
+    "arch/x86_64/darmoshark-linux-1.0.0-7-any.pkg.tar.zst": {
+      "sha256": "05c5a221a71ee2605c117112d18f7c5291b69ff1c59b8705bd10919259a87786",
+      "size": 867965
+    },
+    "arch/x86_64/darmoshark-linux-1.0.0-7-any.pkg.tar.zst.sig": {
+      "sha256": "f262788e596726236a5c238f7fb332595b9f829bc132f6ef3c9f02f616eee16c",
+      "size": 119
+    },
     "arch/x86_64/darmoshark.db": {
-      "sha256": "3ae471706599e85aba83253522b637628ec12e01ce3a95e6acb4c16d14a095ef",
-      "size": 502
+      "sha256": "38a2728e43d5412620d8484f335fb642a2e7c91fdd9d44939800325e6370a934",
+      "size": 504
     },
     "arch/x86_64/darmoshark.db.sig": {
-      "sha256": "dbc61f135c48d2716e141e386407c008ea12f0e3d52c6e98175edb492bc15b55",
+      "sha256": "f6afd2ae30d2ee80a23afff9faa69a70898b7d4b04ed0d1ef92c5491551257f2",
       "size": 119
     },
     "arch/x86_64/darmoshark.db.tar.gz": {
-      "sha256": "3ae471706599e85aba83253522b637628ec12e01ce3a95e6acb4c16d14a095ef",
-      "size": 502
+      "sha256": "38a2728e43d5412620d8484f335fb642a2e7c91fdd9d44939800325e6370a934",
+      "size": 504
     },
     "arch/x86_64/darmoshark.db.tar.gz.sig": {
-      "sha256": "dbc61f135c48d2716e141e386407c008ea12f0e3d52c6e98175edb492bc15b55",
+      "sha256": "f6afd2ae30d2ee80a23afff9faa69a70898b7d4b04ed0d1ef92c5491551257f2",
       "size": 119
     },
     "arch/x86_64/darmoshark.files": {
-      "sha256": "7aadcb41bc37d9406ca4ba6ef4840a84d866779001ea09e2c6593b1270ae42b8",
-      "size": 1317
+      "sha256": "ffe971c4f7044537712a7e17d1e32f9770fb2796aa532165cfd88f8cb0ed2181",
+      "size": 1328
     },
     "arch/x86_64/darmoshark.files.sig": {
-      "sha256": "5f9563fb0bc851049b2b02709b508bfc07fa2c6549e889a1c91b51f2fc95f7b4",
+      "sha256": "374a07555878a7e172910bb27c5d25d059968e76eb1a7ff4d16b4c06fb9172a6",
       "size": 119
     },
     "arch/x86_64/darmoshark.files.tar.gz": {
-      "sha256": "7aadcb41bc37d9406ca4ba6ef4840a84d866779001ea09e2c6593b1270ae42b8",
-      "size": 1317
+      "sha256": "ffe971c4f7044537712a7e17d1e32f9770fb2796aa532165cfd88f8cb0ed2181",
+      "size": 1328
     },
     "arch/x86_64/darmoshark.files.tar.gz.sig": {
-      "sha256": "5f9563fb0bc851049b2b02709b508bfc07fa2c6549e889a1c91b51f2fc95f7b4",
+      "sha256": "374a07555878a7e172910bb27c5d25d059968e76eb1a7ff4d16b4c06fb9172a6",
       "size": 119
     },
     "pacman.conf.in": {
@@ -54,5 +62,5 @@
   "fingerprint": "973409058934AA235ED54A12DF33A981D4B4332F",
   "package": "darmoshark-linux",
   "schema": 1,
-  "version": "1.0.0-6"
+  "version": "1.0.0-7"
 }
