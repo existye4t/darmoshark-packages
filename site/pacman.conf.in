@@ -1,0 +1,5 @@
+# Owner review and explicit key trust are required before installing this snippet.
+# Publisher primary fingerprint: 973409058934AA235ED54A12DF33A981D4B4332F
+[darmoshark]
+SigLevel = Required DatabaseRequired
+Server = https://existye4t.github.io/darmoshark-packages/arch/$arch

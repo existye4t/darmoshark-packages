@@ -1,0 +1,58 @@
+{
+  "architecture": "x86_64",
+  "base_url": "https://existye4t.github.io/darmoshark-packages/",
+  "files": {
+    "arch/x86_64/darmoshark-linux-1.0.0-6-any.pkg.tar.zst": {
+      "sha256": "03d0b1e6a47f17e342a6e8ad0e130272ff2562cd985815ef753039591de63f7b",
+      "size": 863018
+    },
+    "arch/x86_64/darmoshark-linux-1.0.0-6-any.pkg.tar.zst.sig": {
+      "sha256": "ac3c58f5604ec276bff7d48dd854403ea47558ce11b568bb2fe1cfbcca494448",
+      "size": 119
+    },
+    "arch/x86_64/darmoshark.db": {
+      "sha256": "3ae471706599e85aba83253522b637628ec12e01ce3a95e6acb4c16d14a095ef",
+      "size": 502
+    },
+    "arch/x86_64/darmoshark.db.sig": {
+      "sha256": "dbc61f135c48d2716e141e386407c008ea12f0e3d52c6e98175edb492bc15b55",
+      "size": 119
+    },
+    "arch/x86_64/darmoshark.db.tar.gz": {
+      "sha256": "3ae471706599e85aba83253522b637628ec12e01ce3a95e6acb4c16d14a095ef",
+      "size": 502
+    },
+    "arch/x86_64/darmoshark.db.tar.gz.sig": {
+      "sha256": "dbc61f135c48d2716e141e386407c008ea12f0e3d52c6e98175edb492bc15b55",
+      "size": 119
+    },
+    "arch/x86_64/darmoshark.files": {
+      "sha256": "7aadcb41bc37d9406ca4ba6ef4840a84d866779001ea09e2c6593b1270ae42b8",
+      "size": 1317
+    },
+    "arch/x86_64/darmoshark.files.sig": {
+      "sha256": "5f9563fb0bc851049b2b02709b508bfc07fa2c6549e889a1c91b51f2fc95f7b4",
+      "size": 119
+    },
+    "arch/x86_64/darmoshark.files.tar.gz": {
+      "sha256": "7aadcb41bc37d9406ca4ba6ef4840a84d866779001ea09e2c6593b1270ae42b8",
+      "size": 1317
+    },
+    "arch/x86_64/darmoshark.files.tar.gz.sig": {
+      "sha256": "5f9563fb0bc851049b2b02709b508bfc07fa2c6549e889a1c91b51f2fc95f7b4",
+      "size": 119
+    },
+    "pacman.conf.in": {
+      "sha256": "77240807c180f84d5992c6d1e4230e9491b72d5b471c89db2c6232c87066f64e",
+      "size": 275
+    },
+    "publisher.asc": {
+      "sha256": "8162921897a3b94623616d6a012d5f7fed4cd6e0772b63df2615c7e47c132940",
+      "size": 404
+    }
+  },
+  "fingerprint": "973409058934AA235ED54A12DF33A981D4B4332F",
+  "package": "darmoshark-linux",
+  "schema": 1,
+  "version": "1.0.0-6"
+}

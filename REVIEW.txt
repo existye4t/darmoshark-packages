@@ -1,0 +1,4 @@
+Owner approved public packaged-source distribution on 2026-11-10.
+Production publisher: 973409058934AA235ED54A12DF33A981D4B4332F
+Only public key material, reviewed signed packages and verification metadata are included.
+Private source history, captures, personal images and signing secrets are excluded.
